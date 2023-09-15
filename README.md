@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Easybank landing page
 
 ![Design preview for the Easybank landing page coding challenge](./design/desktop-preview.jpg)
@@ -53,3 +54,7 @@ As mentioned above, there are many ways to host your project for free. Our recom
 Submit your solution to challenges@bluelight.co, making sure to include the link to the repository. Please verify the repository to public so it can be viewed by our team.
 
 **Have fun building!** 🚀
+=======
+# challenge_blue_light
+challenge_blue_light
+>>>>>>> 829ce6157fa98760ad05c5a064a44cf255a6a33b
