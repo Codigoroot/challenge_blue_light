@@ -719,7 +719,7 @@ ul li a:hover{
 
 	.menu_cerrar {
 		width: 25px;
-		height: 25px;
+		height: 15px;
 		background-image: url('images/icon-hamburger.svg');
 		background-size: 100%;
 		display: flex;
