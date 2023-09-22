@@ -365,7 +365,7 @@ ul li a:hover{
 }
 
 
-@media screen and (max-width: 775px) {
+@media screen and (max-width: 375px) {
 
 	#menu-overlay {
 	position: fixed;
